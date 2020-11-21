@@ -15,10 +15,10 @@ import tweepy				#Versao tweepy==3.6.0 e 3.5.0 apresentaram problemas -> use ver
 from pymongo import MongoClient
 from classification import Classification
 
-consumerKey = 'qa6PVsPZOJQ4aeJMsXgcCQTLf'
-consumerSecret ='TXzettXE1zAnxQKJuMIDk3e6vodgmSPkr52Es33UPgEZ09WTX3'
-accessToken = '127248314-tcg8w96hKYXfB9iZHVexN3SUKr9O8KdW77SB2DhA'
-accessSecret = 'z5CmBDAxmbsOOnQJY4NeMMos4yw4NnT4mERlzmqXZ1SvR'
+consumerKey = ''
+consumerSecret =''
+accessToken = ''
+accessSecret = ''
 #api.user_timeline(id="oficialbhtrans")
 #api.user_timeline(id="524349796")
 #db.reports.find({}).sort({"timestamp_ms": -1})
